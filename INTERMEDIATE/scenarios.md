@@ -15,6 +15,9 @@ allowed-tools: Read
 | `S3` | Team celebrate sau deal | L2-L3 | Consider đi 1 phần |
 | `S4` | Bị challenge trực tiếp | L3 | Challenge response |
 | `S5` | Bị dùng "nể" để ép | L4 | Acknowledgement + boundary |
+| `S6` | Team building công ty | L2-L3 | Limit + "ngồi chơi" |
+| `S7` | Nhậu lương cuối tháng | L1 | Decline + offer tuần sau |
+| `S8` | Họp lớp - reunion | L1-L2 | Consider đi, nostalgic |
 
 ---
 
@@ -158,6 +161,98 @@ Dùng "thiện chí" để ép
 - Acknowledge TRƯỚC: "Tao biết mày nể tao"
 - Thank sau: "cảm ơn mày"
 - Offer cụ thể: "tuần này tao đặt"
+
+---
+
+## S6: Team building
+
+**Context:** Công ty tổ chức team building cuối tuần, ai cũng phải đi, sếp ép uống.
+
+**Input:**
+> "Team building công ty cuối tuần này, không đi không được đâu! Sếp bảo ai cũng phải uống hết mình!"
+
+**Response:**
+
+```markdown
+## 🎯 Tình huống
+Team building công ty - sếp ép uống
+
+## ⚠️ Decision point
+Team building = phải đi. Không đi = gây ác cảm với sếp.
+Nhưng vẫn có thể limit được.
+
+## 📖 Script (nếu đi)
+"Tao đi, nhưng tối nay tao limit 2-3 lon thôi vì cuối tuần phải về sớm. Mày uống đi, tao cạn chai với!"
+
+## 📱 Text
+"Team building tao đi chắc chắn rồi! 🎉 Nhưng tối nay tao limit vì cuối tuần có việc. Mày uống thoải mái nha!"
+
+## ⚠️ Health reminder
+Team building → uống 2-3 lon max. Đi sớm nếu cần. Sáng mai không làm việc được thì Grab về.
+
+## 💡 Khi nào nên đi?
+Team building = BẮT BUỘC. Không đi = bad impression.
+```
+
+---
+
+## S7: Nhậu lương
+
+**Context:** Cuối tháng, lương về, bạn bè rủ nhậu lương.
+
+**Input:**
+> "Lương về rồi mấy thằng ơi! Cuối tháng rồi, đi nhậu đi! Ai không đi là nghèo!"
+
+**Response:**
+
+```markdown
+## 🎯 Tình huống
+Nhậu lương cuối tháng - bạn bè rủ
+
+## 📖 Script
+"Tao biết mày muốn đi, tao cũng muốn lắm! Nhưng tuần này tao bận thật, đang xử lý mấy việc cuối tháng. Để tuần sau tao đặt trước cho mày nha, mày chọn quán đi, deal không?"
+
+## 📱 Text
+"Lương mày uống đi mà 😄 Ta tuần này bận thật, đang sprint cuối tháng. Để tuần sau tao đặt bàn trước cho mấy người nhé, deal chưa?"
+
+## ⚠️ Health reminder
+Nhậu lương = dễ say lắm. Đi 1-2 lần thôi, đừng uống hết lương.
+
+## 💡 Khi nào nên đi?
+Nhậu lương với bạn thân = vui. Nhưng ko cần đi lần nào cũng được.
+```
+
+---
+
+## S8: Reunion (Họp lớp)
+
+**Context:** Họp lớp, bạn cũ rủ nhậu. 10 năm không gặp.
+
+**Input:**
+> "Họp lớp đi mày! 10 năm rồi không gặp nhau! Bắt buộc phải đi!"
+
+**Response:**
+
+```markdown
+## 🎯 Tình huống
+Họp lớp - bạn cũ rủ nhậu
+
+## ⚠️ Decision point
+Họp lớp = nostalgic, thường nên đi ít nhất 1 lần.
+Nhưng nếu mày thật sự bận → có cách từ chối khéo.
+
+## 📖 Script (nếu đi)
+"Tao đi chắc! 10 năm rồi, phải gặp lại bọn mày. Nhưng tối nay tao limit, mai tao có việc. Tao uống 2 lon thôi, mày hiểu tao nhé!"
+
+## 📱 Text (nếu từ chối)
+"10 năm rồi sao? 😭 Tao muốn đi lắm nhưng tối nay thật không được. Để lần sau về quê tao tổ chức gặp mấy người nhé! Tao hứa đấy!"
+
+## ⚠️ Health reminder
+Gặp bạn cũ = dễ say vì vui + nostalgic. Limit 2-3 lon.
+
+## 💡 Khi nào nên đi?
+Họp lớp lần đầu sau lâu = nên đi. Đây là kỷ niệm.
+```
 
 ---
 
