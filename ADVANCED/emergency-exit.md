@@ -155,6 +155,106 @@ Em hơi đau đầu/buồn nôn phải về nghỉ ạ 😵 Cảm ơn anh/chị,
 
 ---
 
+### Tech 7: Chở mẹ đi khám sức khỏe
+
+**Độ trust:** ⭐⭐⭐
+**Khi nào:** Mẹ có lịch khám định kỳ hoặc đột xuất
+
+**Script:**
+```
+Dạ em xin lỗi, mẹ em có lịch khám sức khỏe ở Y khoa lúc X giờ, em phải chở đi. Em cảm ơn anh/chị đã mời, lần sau em xin ạ.
+```
+
+**Text:**
+```
+Mẹ em có lịch khám sức khỏe định kỳ, em phải chở đi ạ 😔 Cảm ơn anh/chị, lần sau em bù nhé!
+```
+
+**Key:** Mẹ + medical = very high trust
+**Note:** Có thể nói thêm "khám định kỳ" hoặc "mẹ mệt phải đi khám"
+
+---
+
+### Tech 8: Chở mẹ đi bơi
+
+**Độ trust:** ⭐⭐⭐
+**Khi nào:** Mẹ đi bơi sáng/tối thường xuyên
+
+**Script:**
+```
+Dạ em xin lỗi, mẹ em đi bơi sáng mà em phải chở đi. Em cảm ơn anh/chị đã mời, lần sau em xin ạ.
+```
+
+**Text:**
+```
+Mẹ em có lớp bơi sáng, em chở đi rồi ạ 😅 Lần sau em bù nhé anh/chị!
+```
+
+**Key:** Chăm sóc mẹ = được tôn trọng
+**Note:** Phù hợp khi mẹ tập thể dục đều đặn
+
+---
+
+### Tech 9: Đưa bố đi khám bệnh
+
+**Độ trust:** ⭐⭐⭐
+**Khi nào:** Bố có lịch tái khám hoặc khám định kỳ
+
+**Script:**
+```
+Dạ em xin lỗi, bố em có lịch tái khám bệnh, em phải đưa đi. Em cảm ơn anh/chị đã mời, lần sau em xin ạ.
+```
+
+**Text:**
+```
+Bố em có lịch khám bệnh định kỳ, em đưa đi ạ 😔 Cảm ơn anh/chị, lần sau em bù nhé!
+```
+
+**Key:** Bố + medical = high trust
+**Note:** Có thể nói "tái khám" để nghe quen thuộc hơn
+
+---
+
+### Tech 10: Chở con đi học/nhảy đầm
+
+**Độ trust:** ⭐⭐⭐
+**Khi nào:** Con có hoạt động ngoại khóa hoặc bận việc
+
+**Script:**
+```
+Dạ em xin lỗi, con em có buổi học/nhảy đầm, em phải đưa đi. Em cảm ơn anh/chị đã mời, lần sau em xin ạ.
+```
+
+**Text:**
+```
+Con em có hoạt động ngoại khóa, em phải đưa đi ạ 😅 Cảm ơn anh/chị, lần sau em bù nhé!
+```
+
+**Key:** Con + parent responsibility = high trust
+**Note:** Nói chung "hoạt động ngoại khóa" hoặc cụ thể "nhảy đầm", "học bơi"
+
+---
+
+### Tech 11: Gia đình có việc cần mặt
+
+**Độ trust:** ⭐⭐⭐
+**Khi nào:** Nhà cần mày về giúp việc gấp
+
+**Script:**
+```
+Dạ em xin lỗi, nhà em cần em về giúp việc gấp. Em cảm ơn anh/chị đã mời, lần sau em xin ạ.
+```
+
+**Text:**
+```
+Nhà em có việc cần em về giúp ạ 😔 Cảm ơn anh/chị, lần sau em bù nhé!
+```
+
+**Key:** Gia đình cần = khó phản bác
+**Note:** Không cần nói rõ việc gì, "có việc" là đủ
+
+---
+
 ## Emergency Exit Flow
 
 ```
