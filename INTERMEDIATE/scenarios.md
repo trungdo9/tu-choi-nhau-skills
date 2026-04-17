@@ -18,6 +18,42 @@ allowed-tools: Read
 | `S6` | Team building công ty | L2-L3 | Limit + "ngồi chơi" |
 | `S7` | Nhậu lương cuối tháng | L1 | Decline + offer tuần sau |
 | `S8` | Họp lớp - reunion | L1-L2 | Consider đi, nostalgic |
+| `S9` | Farewell - đồng nghiệp nghỉ | L1-L2 | Nên đi, limit |
+
+---
+
+## S9: Farewell - Chia tay đồng nghiệp
+
+**Context:** Đồng nghiệp nghỉ việc, cả team đi tiễn. Không đi thì bị "kỳ".
+
+**Input:**
+> "Thằng A nghỉ việc rồi, tối nay đi tiễn nó đi! Ai không đi là không có tình cảm!"
+
+**Response:**
+
+```markdown
+## 🎯 Tình huống
+Farewell - tiễn đồng nghiệp nghỉ việc
+
+## ⚠️ Decision point
+Farewell = nên đi. Đồng nghiệp nghỉ = sentimental moment.
+Nhưng vẫn có thể limit được.
+
+## 📖 Script (nếu đi)
+"Tao đi chắc! Tiễn thằng A mà không đi sao được. Tao uống 2 lon thôi vì tối nay phải về sớm. Mày uống đi, tao cạn chai với!"
+
+## 📱 Text (nếu từ chối)
+"Tao muốn đi lắm nhưng tối nay có việc gia đình 😔 Tiễn thằng A giúp tao nhé! Lần sau tao mời bọn mày ăn bù nhé!"
+
+## 📱 Text (nếu đi)
+"Tao đi! Tiễn thằng A nào 🎉 Tao limit 2 lon thôi nhé, mai có việc. Mày uống đi!"
+
+## ⚠️ Health reminder
+Farewell = dễ say vì sentiment. 2-3 lon max. Đừng uống quá mà khóc.
+
+## 💡 Khi nào nên đi?
+Farewell đồng nghiệp thân = NÊN ĐI. Đây là lần cuối.
+```
 
 ---
 
